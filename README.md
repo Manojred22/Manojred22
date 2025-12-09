@@ -4,7 +4,7 @@ Hi 👋 My name is Manoj
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Baangalore
+* 🌍  I'm based in Dubai
 * ✉️  You can contact me at [manojred22@gmail.com](mailto:manojred22@gmail.com)
 
 <a href="https://www.github.com/manojred22" target="_blank" rel="noreferrer"><img
