@@ -7,6 +7,8 @@ Software Engineer
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [manojred22@gmail.com](mailto:manojred22@gmail.com)
 
+* <a href="https://www.toptal.com/developers/resume/manoj-reddy-m#Vag85Z">Hire me on Toptal</a>
+
 <a href="https://www.github.com/manojred22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manojred22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
